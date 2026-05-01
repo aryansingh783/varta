@@ -15,7 +15,7 @@ It focuses on simplicity, performance, and a smooth user interface.
 
 ## 🌐 Live Website
 
-👉 https://varta-bf2e0.web.app/
+👉 https://aryansingh783.github.io/varta/
 
 ---
 
